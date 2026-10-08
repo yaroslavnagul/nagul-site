@@ -36,6 +36,8 @@ Name forms: Yaroslav Nagul; Ярослав Нагул (Ukrainian); Yaroslav Nahu
 
 Short answers to practice questions, with the paragraph of each standard or law cited under every claim.
 
+- [Is market value the same as fair value under IFRS 13?](https://nagul.com.ua/en/notes/market-value-vs-fair-value/): 2026-10-08; IFRS 13, IVS 2025, EVS 2025 (EVGN 5), the RICS Red Book and Ukraine's National Valuation Standard No. 1; where the two bases coincide, where they can differ, and what to agree with the valuer for IFRS 13 disclosures
+- [Чи дорівнює ринкова вартість справедливій вартості за МСФЗ 13?](https://nagul.com.ua/notes/market-value-vs-fair-value/): the same note in Ukrainian
 - [Can a valuer use AI under IVS and EVS?](https://nagul.com.ua/en/notes/ai-and-professional-judgement/): 2026-10-08; IVS 2025, EVS 2025, the RICS Red Book and the RICS standard on responsible use of AI; the line drawn at the valuer's professional judgement, the IVS 2028 draft, and disclosing AI under Ukraine's National Valuation Standard No. 1
 - [Чи може оцінювач використовувати ШІ за МСО та ЄСО?](https://nagul.com.ua/notes/ai-and-professional-judgement/): the same note in Ukrainian
 - [What does an auditor expect from a review of a valuation report?](https://nagul.com.ua/en/notes/valuation-review-for-auditors/): 2026-10-08; ISA 500, ISA 540 (Revised) and ISA 620 alongside a review under Ukraine's National Valuation Standard No. 1; where the requirements differ and what to agree before work starts
