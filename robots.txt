@@ -1,0 +1,5 @@
+# nagul.com.ua: all crawlers, including AI search and assistant agents, are welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://nagul.com.ua/sitemap.xml
