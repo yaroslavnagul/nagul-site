@@ -4,7 +4,7 @@
 
 Name forms: Yaroslav Nagul; Ярослав Нагул (Ukrainian); Yaroslav Nahul (alternative transliteration of the Ukrainian name). The views on this site are his own and do not necessarily reflect those of RSM Ukraine. Client names are withheld. Last updated: 2026-10-08.
 
-**Credentials.** Checked against the public registers of RICS, TEGOVA, UTO, the State Property Fund of Ukraine and the State Geocadastre; certificate numbers on request.
+**Credentials.** Public registers: RICS (https://www.rics.org/find-a-member), TEGOVA (https://tegova.org/valuers), UTO (https://uto.com.ua/en/list-of-appraisers/).
 
 - MRICS, Chartered Valuation Surveyor (RICS), since 2010
 - RICS Registered Valuer, since 2025
@@ -29,8 +29,15 @@ Name forms: Yaroslav Nagul; Ярослав Нагул (Ukrainian); Yaroslav Nahu
 
 ## Pages
 
-- [Profile in English](https://nagul.com.ua/en/): credentials, AI in valuation practice, writing and talks, cases, IP valuation, teaching, timeline, contact
+- [Profile in English](https://nagul.com.ua/en/): credentials, AI in valuation practice, notes, writing and talks, cases, IP valuation, teaching, timeline, contact
 - [Профіль українською](https://nagul.com.ua/): the same content in Ukrainian
+
+## Notes
+
+Short answers to practice questions, with the paragraph of each standard or law cited under every claim.
+
+- [What does an auditor expect from a review of a valuation report?](https://nagul.com.ua/en/notes/valuation-review-for-auditors/): 2026-10-08; ISA 500, ISA 540 (Revised) and ISA 620 alongside a review under Ukraine's National Valuation Standard No. 1; where the requirements differ and what to agree before work starts
+- [Чого аудитор очікує від рецензії на звіт про оцінку?](https://nagul.com.ua/notes/valuation-review-for-auditors/): the same note in Ukrainian
 
 ## Contact
 
