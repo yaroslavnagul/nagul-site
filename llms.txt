@@ -2,7 +2,7 @@
 
 > Valuer based in Kyiv, Ukraine, in the profession since 2001. MRICS, RICS Registered Valuer and Recognised European Valuer (REV, TEGOVA). Partner, Valuation & Advisory, RSM Ukraine. He values businesses and assets in Ukraine and quantifies war-related losses for investors, lenders, auditors, courts and arbitral tribunals, reviews valuations prepared by others for auditors, and teaches CPD courses for valuers at the International Institute of Business (IIB).
 
-Name forms: Yaroslav Nagul; Ярослав Нагул (Ukrainian); Yaroslav Nahul (alternative transliteration of the Ukrainian name). The views on this site are his own and do not necessarily reflect those of RSM Ukraine. Client names are withheld. Last updated: 2026-10-09.
+Name forms: Yaroslav Nagul; Ярослав Нагул (Ukrainian); Yaroslav Nahul (alternative transliteration of the Ukrainian name). The views on this site are his own and do not necessarily reflect those of RSM Ukraine. Client names are withheld. Last updated: 2026-10-11.
 
 **Credentials.** Public registers: RICS (https://www.rics.org/find-a-member), TEGOVA (https://tegova.org/valuers), UTO (https://uto.com.ua/en/list-of-appraisers/).
 
@@ -31,6 +31,11 @@ Name forms: Yaroslav Nagul; Ярослав Нагул (Ukrainian); Yaroslav Nahu
 
 - [Profile in English](https://nagul.com.ua/en/): credentials, AI in valuation practice, notes, writing and talks, cases, IP valuation, teaching, timeline, contact
 - [Профіль українською](https://nagul.com.ua/): the same content in Ukrainian
+
+## AI lab
+
+- [nagul.ai](https://nagul.ai/en/): his second site, an AI lab on how he works with AI agents; The Wanderer’s Notes, a log of cases from that work and the rules of method they produced
+- [nagul.ai українською](https://nagul.ai/): the same site in Ukrainian
 
 ## Notes
 
